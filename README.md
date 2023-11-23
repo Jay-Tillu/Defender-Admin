@@ -9,6 +9,17 @@
 Admin Panel For Defender Security App.
 </p>
 
+## Learnings
+* How Admin-User Data Encapsulation Works.
+* How to implement OTP Base Verification.
+* How to store data in Firestore.
+* How to Retrieve data from Firestore.
+* How to create custom widgets and reuse them.
+* How to use native device features like a camera.
+* How to create production build using Android Studio.
+* How to publish the app on Playstore.
+
+
 ## Screenshots
 
 <p float="middle">
