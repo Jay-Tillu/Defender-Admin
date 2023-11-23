@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/main/assets/images/logo.png?raw=true" alt="Defender Admin App Logo" width="120" height="120">
+    <img src="https://github.com/Jay-Tillu/Defender-Admin/blob/main/assets/images/logo.png?raw=true" alt="Defender Admin App Logo" width="120" height="120">
   </a>
 </p>
 
