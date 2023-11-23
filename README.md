@@ -3,13 +3,7 @@
   </a>
 </p>
 
-<h3 align="center">Defender Admin App</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/github/issues/Jay-Tillu/Xylophone">
-  <img src="https://img.shields.io/github/forks/Jay-Tillu/Xylophone">
-  <img src="https://img.shields.io/github/stars/Jay-Tillu/Xylophone">
-</p>
+<h2 align="center">Defender Admin App</h2>
 
 <p align="center">
 Admin Panel For Defender Security App.
@@ -18,17 +12,19 @@ Admin Panel For Defender Security App.
 ## Screenshots
 
 <p float="middle">
-  <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/main/assets/images/adminleft.jpg?raw=true" width="200" />
-  <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/main/assets/images/adminright.jpg?raw=true" width="200" /> 
-  <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/main/assets/images/admin1.jpg?raw=true" width="200" /> 
-  <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/main/assets/images/admin2.jpg?raw=true" width="200" /> 
-  <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/main/assets/images/admin3.jpg?raw=true" width="200" /> 
+  <img src="https://github.com/Jay-Tillu/Defender-Admin/blob/main/assets/images/adminleft.jpg?raw=true" width="200" />
+  <img src="https://github.com/Jay-Tillu/Defender-Admin/blob/main/assets/images/adminright.jpg?raw=true" width="200" /> 
+  <img src="https://github.com/Jay-Tillu/Defender-Admin/blob/main/assets/images/admin1.jpg?raw=true" width="200" /> 
+  <img src="https://github.com/Jay-Tillu/Defender-Admin/blob/main/assets/images/admin2.jpg?raw=true" width="200" /> 
+  <img src="https://github.com/Jay-Tillu/Defender-Admin/blob/main/assets/images/admin3.jpg?raw=true" width="200" /> 
  
 </p>
 
 <p float="left">
-  <a href="https://play.google.com/store/apps/details?id=com.immolationinc.defenderadmin"> <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/main/assets/images/getit.png?raw=true" width="200" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.immolationinc.defenderadmin"> <img src="https://github.com/Jay-Tillu/Defender-Admin/blob/main/assets/images/getit.png?raw=true" width="200" /></a>
 </p>
+
+<h2><a href="https://play.google.com/store/apps/details?id=com.immolationinc.defenderadmin">🔗 See App on Google Playstore</h2>
 
 
 ## Plugins
