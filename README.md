@@ -31,12 +31,6 @@ Admin Panel For Defender Security App.
  
 </p>
 
-<p float="left">
-  <a href="https://play.google.com/store/apps/details?id=com.immolationinc.defenderadmin"> <img src="https://github.com/Jay-Tillu/Defender-Admin/blob/main/assets/images/getit.png?raw=true" width="200" /></a>
-</p>
-
-<h2><a href="https://play.google.com/store/apps/details?id=com.immolationinc.defenderadmin">🔗 See App on Google Playstore</h2>
-
 
 ## Plugins
 
